@@ -1,0 +1,13 @@
+{
+  "name": "string-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string-tools.js",
+  "scripts": {
+    "test": "node string-tools-unit-test.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
